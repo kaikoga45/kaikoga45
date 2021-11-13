@@ -37,7 +37,7 @@ Timezone: Central Indonesian Time (WITA)
 <p>In my latest project, I created an <a href="https://github.com/kaikoga45/myboba">My Boba App</a> which will help people ordering beverages via this app without the hassle needing to queue anymore. I created this project in order to pass the mobile programming course at my college. 🏆 This project was given A rated 🥳</p>
 
 - 🌱 I’m currently learning Microsoft Azure Fundamentals AZ-900.
-- 🤔 I currently study Information Systems in Ganesha University of Education (Undiksha).
+- 🤔 Right now i study Information Systems in Ganesha University of Education (Undiksha).
 - 📫 Please email koga.kai@icloud.com to Hire me.
 
 </br>
