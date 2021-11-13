@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
- <a href="https://github.com/YuriDevAT/sos-animals">
+ <a href="https://github.com/kaikoga45/myboba">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kaikoga45&repo=myboba&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
