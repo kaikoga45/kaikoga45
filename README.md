@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kai Koga</h1>
+<p>
+  <h1 align="center"><b>Hi there, I'm Kai</h1>
+</p>
 <h3 align="center">Enthusiastic Multi Platform App Developer with 1+ years of strong experience in Front-end & Back-end Development, UI/UX & Design areas with eagerness to learn and master DevOps & CI/CD. SOLID design principles specialist.</h3>
 
 # Github Performance Overall
