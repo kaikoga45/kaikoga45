@@ -17,7 +17,7 @@
  <a href="https://github.com/kaikoga45/myboba">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kaikoga45&repo=myboba&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <a href="https://github.com/kaikoga45/libre">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kaikoga45&repo=libre&theme=tokyonight" />
 </a>
 </p>
@@ -54,5 +54,5 @@ Timezone: Central Indonesian Time (WITA)
 </p>
 </br>
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I like connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>😊</em>
+  <em><b>Feel free to contact me to know more about me</b>😊</em>
 </p>
