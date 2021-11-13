@@ -1,35 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kai Koga</h1>
 <h3 align="center">Enthusiastic Multi Platform App Developer with 1+ years of strong experience in Front-end & Back-end Development, UI/UX & Design areas with eagerness to learn and master DevOps & CI/CD. SOLID design principles specialist.</h3>
 
-- 🔭 I’m currently working on **Minerba**
+# Github Performance Overall
 
-- 💬 Ask me about **flutter and dart**
+![github stats](https://github-readme-stats.vercel.app/api?username=kaikoga45&show_icons=true&theme=radical)
 
-- 📫 How to reach me **koga.kai@icloud.com**
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikoga45&layout=compact&theme=nightowl)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kai_koga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kai_koga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kai koga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai koga" height="30" width="40" /></a>
-</p>
+# Current activity
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning Microsoft Azure Fundamentals AZ-900.
+- 🤔 I currently study Information Systems in Ganesha University of Education (Undiksha).
+- 📫 Please email koga.kai@icloud.com to Hire me.
 
+Thank You
 
-<!--
-**kaikoga45/kaikoga45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Kai Koga GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikoga45&show_icons=true&theme=radical)
+<a href="https://www.instagram.com/kaikoga45" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/kai-koga-170a691a0/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
+<a href="https://twitter.com/kai_koga" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px" alt="Twitter"></a>
