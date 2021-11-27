@@ -14,11 +14,11 @@
 <br/>
 
 <p align="center">
- <a href="https://github.com/kaikoga45/myboba">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kaikoga45&repo=myboba&theme=tokyonight" />
+ <a href="https://github.com/kaikoga45/ditonton">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kaikoga45&repo=ditonton&theme=tokyonight" />
 </a>
-  <a href="https://github.com/kaikoga45/libre">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kaikoga45&repo=libre&theme=tokyonight" />
+  <a href="https://github.com/kaikoga45/myboba">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=myboba&repo=libre&theme=tokyonight" />
 </a>
 </p>
 
