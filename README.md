@@ -8,7 +8,7 @@
 <a href="https://twitter.com/kai_koga" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px" alt="Twitter"></a>
 </p>
 </br>
-<p align="center">Enthusiastic Multi Platform App Developer with 1+ years of strong experience in Front-end & Back-end Development, UI/UX & Design areas with eagerness to learn and master DevOps & CI/CD. SOLID design principles specialist.</p>
+<p align="center">Enthusiastic Multi Platform App Developer with 1+ years of strong experience in Front-end & Back-end Development,with eagerness to learn and master DevOps & CI/CD. SOLID design principles specialist.</p>
 </br>
 <h2 align="center">My favorite projects 💻</h2>
 <br/>
